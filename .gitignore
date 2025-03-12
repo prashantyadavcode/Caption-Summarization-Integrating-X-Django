@@ -1,0 +1,11 @@
+
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+summarizer/config.py
+
+venv/
